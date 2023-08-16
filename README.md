@@ -16,3 +16,5 @@ GIT PULL
 Es un comando que me va a permitir descargar los 
 cambios que se han realizado en remoto en GIT 
 HUB
+
+hacemos el git push
