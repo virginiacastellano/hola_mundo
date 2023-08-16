@@ -15,4 +15,4 @@ ya que ellos son los que saben lo que el proyecto está necesitando
 GIT PULL
 Es un comando que me va a permitir descargar los 
 cambios que se han realizado en remoto en GIT 
-HUB.
+HUB
