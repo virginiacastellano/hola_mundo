@@ -11,3 +11,8 @@ trabajamos con los PULL REQUESTS 27/06
 Los pull requests pueden ser rechazadas. Los responsables de los 
 proyectos serán los encargados de aceptar o no los cambios propuestos 
 ya que ellos son los que saben lo que el proyecto está necesitando
+
+GIT PULL
+Es un comando que me va a permitir descargar los 
+cambios que se han realizado en remoto en GIT 
+HUB.
